@@ -27,7 +27,7 @@ A collection of PowerShell scripts for performing essential maintenance, reporti
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/AD-Maintenance-Scripts.git
+    git clone https://github.com/moussan/AD-Maintenance-Scripts.git
     cd AD-Maintenance-Scripts
     ```
 
